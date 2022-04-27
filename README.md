@@ -24,7 +24,7 @@ Summary statistics for December:
 The major takeaways from the two deliverables included:
 
 - The temperatures appear relatively constant year-round. The mean temperature recorded in June was 74.94 degrees F, and the mean temperature recorded in December was 71.04 degrees F. 
-- The temperatures may to be warm enough to support surfing year-round. The minimum temperature recorded in June was 64 degrees F, and the maximum temperature recorded in December was 56 degrees F. 
+- The temperatures may to be warm enough to support surfing year-round. The minimum temperature recorded in June was 64 degrees F, and the minimum temperature recorded in December was 56 degrees F. 
 - The temperatures do not vary much in a given month. For June, the interquartile range is 73-77 degrees F, and for December, the interquartile range is 69-74 degrees F. The standard deviation for June is 3.26, and the standard deviation for December is 3.75.
 
 
