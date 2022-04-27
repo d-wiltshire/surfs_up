@@ -7,13 +7,13 @@ The purpose of this analysis was to quantify weather data for a fictional busine
 The two deliverables were summary temperature statistics from the months of June and December, respectively, over the multi-year period captured by the data.
 
 Summary statistics for June:
-.
+ 
 
 ![June temps PNG](https://user-images.githubusercontent.com/100863488/165541199-2cee3fe7-4755-4eab-8ab3-6eda912cb7f9.png)
 
 
 Summary statistics for December:
-.
+ 
 
 ![Dec temps PNG](https://user-images.githubusercontent.com/100863488/165541295-11bf6482-52a2-40ed-a60b-d31e519163a5.png)
 
